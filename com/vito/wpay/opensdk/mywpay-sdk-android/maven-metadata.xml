@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.vito.wpay.opensdk</groupId>
+  <artifactId>mywpay-sdk-android</artifactId>
+  <versioning>
+    <release>1.0.1</release>
+    <versions>
+      <version>1.0.0</version>
+      <version>1.0.1</version>
+    </versions>
+    <lastUpdated>20200509030730</lastUpdated>
+  </versioning>
+</metadata>
